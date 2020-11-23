@@ -533,7 +533,19 @@ Options:
 
 The start menu:
 
+<p align="center"><img src="images/bg96_start_menu.png" width="80%"></p>
+
 
 The menu for option 0:
 
+<p align="center"><img src="images/bg96_get_modem_information_menu.png" width="80%"></p>
 
+
+Output of using ping connectivity test (options 4 -> 0):
+
+<p align="center"><img src="images/bg96_ping_example.png" width="80%"></p>
+
+
+Output of Get Network Information (option 0 -> 8):
+
+<p align="center"><img src="images/bg96_network_information.png" width="80%"></p>
