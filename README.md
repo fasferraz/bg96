@@ -37,9 +37,9 @@ Options...
          0.2.11 - Establish Multi PDNs with the same APN
          0.2.12 - NETLIGHT output mode
          0.2.13 - IMS Function Control
-         0.2.14 - RI Behaviour when RING URC is Presented
-         0.2.15 - RI Behaviour when Incoming SMS URCs are Presented
-         0.2.16 - RI Behaviour when Other URCs are Presented
+         0.2.14 - RI Behavior when RING URC is Presented
+         0.2.15 - RI Behavior when Incoming SMS URCs are Presented
+         0.2.16 - RI Behavior when Other URCs are Presented
          0.2.17 - RI Signal Output Carrier
          0.2.18 - Delay URC Indication
          0.2.19 - URC Output Port for CMXU
@@ -458,7 +458,7 @@ Options...
          1.13.3 - Set only format ...
          1.13.4 - Manual/Automatic operator selection ...
      2 - Engineering Commands...
-       2.0 - Neighbour Cell
+       2.0 - Neighbor Cell
        2.1 - Serving Cell
        2.2 - Scan network...
          2.2.0 - Restore the module to AUTO mode
