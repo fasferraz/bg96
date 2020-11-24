@@ -12,6 +12,8 @@ The application has two threads:
 - The input thread (that reads user choices and options)
 - The read thread (that reads modem outputs, display's them, and tries to parse it in case the AT command belongs to the list of commands to decode)
 
+This application is written in python3 and the only non standard module neeeded is the pyserial module (pip3 install pyserial).
+If you already use the QCSuper tool, this module should already be installed.
 
 These are the implemented options:
 
