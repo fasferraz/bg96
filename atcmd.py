@@ -2374,7 +2374,7 @@ def qicsgp_definition(ser,dummy):
         ['Enter the APN name:\n\n99 -return\n\n',{None},None],
         ['Enter the username:\n\n99 -return\n\n',{None},None],
         ['Enter the password:\n\n99 -return\n\n',{None},None],
-        ['Choose the Authetication method:\n0 - None\n1 - PAP\n2 - \n3 - PAP or CHAP\n\n99 - return\n\n',{str(i) for i in range(0,4)},None],
+        ['Choose the Authetication method:\n0 - None\n1 - PAP\n2 - CHAP\n3 - PAP or CHAP\n\n99 - return\n\n',{str(i) for i in range(0,4)},None],
         ['Enter Y/y to configure...\n99 - return\n\n',{'y','Y'},None]
     ]
     i = 0
