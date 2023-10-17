@@ -2899,7 +2899,7 @@ def cops_set(ser,type):
         input_list = [
             ['Enter the format to use [0-2]:\n99 - return\n\n0 - Long\n1 - Short\n2 - Numeric\n\n',{str(i) for i in range(3)},None],  
             ['Enter the Operator (according to format chosen before):\n99 - return\n\n',{None},None],     
-            ['Enter the Access Technology:\n99 - return\n\n0 - GSM\n8 - LTYE-M\n9 - NB-IoT\n\n',{'0','8','9'},None],              
+            ['Enter the Access Technology:\n99 - return\n\n0 - GSM\n7 - LTE\n8 - LTE-M\n9 - NB-IoT\n\n',{'0','7','8','9'},None],              
             ['Enter Y/y to confirm\n99 - return\n\n',{'y','Y'},None]
         ]    
     i = 0
